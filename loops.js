@@ -24,8 +24,3 @@ function doWhileLoop(array) {
     array.shift();}
   return array
   }
-}
-
-  }
-
-}
